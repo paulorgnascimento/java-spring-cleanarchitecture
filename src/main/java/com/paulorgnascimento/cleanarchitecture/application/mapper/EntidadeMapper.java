@@ -1,7 +1,7 @@
-package com.paulorgnascimento.cleanarchitecture.application.mappers;
+package com.paulorgnascimento.cleanarchitecture.application.mapper;
 
 import com.paulorgnascimento.cleanarchitecture.application.dto.EntidadeDto;
-import com.paulorgnascimento.cleanarchitecture.domain.entities.Entidade;
+import com.paulorgnascimento.cleanarchitecture.domain.entity.Entidade;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")

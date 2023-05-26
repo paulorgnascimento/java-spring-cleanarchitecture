@@ -1,4 +1,4 @@
-package com.paulorgnascimento.cleanarchitecture.domain.entities;
+package com.paulorgnascimento.cleanarchitecture.domain.entity;
 
 public class Entidade {
     private String campo1;

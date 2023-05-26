@@ -1,4 +1,4 @@
-package com.paulorgnascimento.cleanarchitecture.infrastructure.dto;
+package com.paulorgnascimento.cleanarchitecture.infrastructure.persistence.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -8,7 +8,7 @@ import lombok.Data;
 
 @Data
 @Entity
-public class EntidadeTableDto {
+public class TB_Entidade {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

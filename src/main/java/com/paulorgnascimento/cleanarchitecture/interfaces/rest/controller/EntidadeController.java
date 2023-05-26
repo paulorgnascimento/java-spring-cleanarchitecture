@@ -1,4 +1,4 @@
-package com.paulorgnascimento.cleanarchitecture.interfaces.controllers;
+package com.paulorgnascimento.cleanarchitecture.interfaces.rest.controller;
 
 import com.paulorgnascimento.cleanarchitecture.application.dto.EntidadeDto;
 import com.paulorgnascimento.cleanarchitecture.application.services.EntidadeService;
